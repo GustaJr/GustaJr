@@ -1,0 +1,3 @@
+- # 👋 Hi, I’m @GustaJr
+- Meu nome é Gustavo Henrique sou aluno do Eduardo Velho Filho
+- Uso esse espaço para postar os projetos
